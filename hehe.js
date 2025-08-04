@@ -1,4 +1,5 @@
 console.log('hey');
 console.log('hii');
 console.log('good morning');
-console.log('gooe afternoon');
+console.log('good afternoon');
+console.log('good evening');
